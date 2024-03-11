@@ -11,6 +11,7 @@ public class UsersRestController {
 	
 	public String helloMessage() {
 
+
 		return HELLO+" "+Configurations.NAME;
 
 	}
